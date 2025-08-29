@@ -82,5 +82,5 @@ Built with **Next.js**, styled with **TailwindCSS**, backed by **Firebase**, and
 ### Install Dependencies and Run Project
 
 ```bash
-1. npm install
-2. npm run dev
+npm install
+npm run dev
